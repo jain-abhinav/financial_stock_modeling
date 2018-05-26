@@ -74,3 +74,4 @@ The last part of the programme, gives the user the ability to perform regression
 to model the stock market price value for a specific number of days; currently this is set to 10 days.
 Polynomial regression analysis was chosen, as an effort to better model non-linear phenomena and
 to increase the accuracy of the prediction itself.
+#
