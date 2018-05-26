@@ -2,11 +2,13 @@
 financial stock modeling tool
 
 Abstract
+
 The current project is a computer programme, written in Python 3, that allows its end user to
 retrieve, analyse and model stock times-series data. This report is the user’s guide for the specific
 programme and its main aim is to present the programme’s features in a short but detailed manner.
 
 Introduction
+
 This programme combines a series of processes that target to facilitate the end user to extract
 useful insights from stock market data. The entire process was designed and implemented in such a
 way that serves three main functions:
@@ -18,6 +20,7 @@ higher level of flexibility.
 an intuitive and fairly easy to understand structure.
 
 Overview
+
 The data that were used for this programme were imported from NASDAQ stock exchange and
 Google financial history database. The relevant company datasets were downloaded from Google
 finance and were processed before being actually used in the programme. Columns were converted
